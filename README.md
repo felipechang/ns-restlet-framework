@@ -156,4 +156,4 @@ GNU GPL see LICENSE.
 **Use at your own discretion. Test before using in production.**
 
 # Author
-Felipe Chang <felipechang@hardcake.org> @mr_pepian
+Felipe Chang <felipechang@hardcake.org>
